@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from 'next/link';
 
 export const metadata = {
   title: "About",
@@ -35,15 +34,6 @@ const Page = () => {
 
       </div>
 
-    
-
-      <div className=" flex gap-2 md:gap-4 md:m-7 justify-center items-center text-xs md:text-xl font-bold border-2 border-yellow-600 rounded-xl  py-5 mb-4 mx-auto">
-        <Link className="text-blue-800 font-bold mr-2 md:mr-20 cursor-pointer" href="https://www.facebook.com/goldenzoneportsaid/?show_switched_toast=0&show_invite_to_follow=0&show_switched_tooltip=0&show_podcast_settings=0&show_community_review_changes=0&show_community_rollback=0&show_follower_visibility_disclosure=0" target="_blank">Facebook</Link>
-        <p>01200871113</p>
-        <p>01200871115</p>
-        <p className="text-blue-800 font-bold">للإستعلام</p>
-        
-      </div>
     </>
   );
 };
