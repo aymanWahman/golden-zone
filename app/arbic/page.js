@@ -13,7 +13,7 @@ export default function Arbic() {
   <div className='mt-36 '>
 
      <div className='w-72 md:w-full mx-auto'>
-  <h1 className='text-center font-bold mt-5 text-4xl'>مرحبا بكم في منتجعنا</h1>
+  <h1 className='text-center font-bold mt-5 text-2xl'>مرحبا بكم في منتجعنا</h1>
   <p className='text-center mt-5'>في منتجعنا، نحن ملتزمون بتزويد ضيوفنا بخدمة استثنائية وتجربة لا تنسى</p>
   <p className='text-center'>تتميز غرف الضيوف الفسيحة لدينا بوسائل الراحة الحديثة بما في ذلك تكييف الهواء وخدمة الواي فاي المجانية وأجهزة تلفزيون بشاشات ذكية وثلاجات صغيرة</p>
   <p className='text-center'>يتميز منتجعنا أيضًا بمجموعة متنوعة من المرافق الموجودة في الموقع مثل مركز للياقة البدنية ومنتجع صحي ومسبح خارجي ومطاعم وقاعات للمناسبات</p>
