@@ -7,7 +7,7 @@ export const metadata = {
 const Page = () => {
   return (
     <>
-      <div className="grid md:grid-cols-3 gap-2 p-5 mx-auto rounded-xl items-center text-center mt-32">
+      <div className="grid md:grid-cols-3 gap-2 p-5 rounded-xl items-center text-center mt-32">
 
         <div className=" bg-yellow-600 rounded-xl">
           <Image
