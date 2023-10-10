@@ -37,7 +37,7 @@ export default function Home() {
     
     <div className='col-span-2 p-3 md:mr-9 shadow-2xl shadow-black space-y-3 md:h-64'>
     
-    <h1 className='text-center font-bold text-2xl mt-4'>{d.title}</h1>
+    <h1 className='text-center font-bold text-lg md:text-2xl mt-4'>{d.title}</h1>
     <p className='text-center text-xl'>{d.description}</p>
     
     </div>
