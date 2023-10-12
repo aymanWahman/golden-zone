@@ -16,7 +16,7 @@ export default  [
   },{
     "id":3,
     "title": "Kids Pool",
-    "titleA": " حمامات السباحة للأطفال",
+    "titleA": " حمام السباحة للأطفال",
     "image": "/image/pool2.png",
     "description": "",
     "desArbic": "حمامات السباحة تتميز بالخصوصية والأمان"
